@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "react": "https://react-builds.vercel.app/api/commits/62a5371f551906a49730c7aa64172114972efc3c/packages/react",
+    "use-sync-external-store": "https://react-builds.vercel.app/api/commits/62a5371f551906a49730c7aa64172114972efc3c/packages/use-sync-external-store"
+  },
+  "volta": {
+    "node": "18.9.0"
+  },
+  "license": "MIT"
+}
