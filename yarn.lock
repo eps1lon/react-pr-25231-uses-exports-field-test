@@ -2,24 +2,8 @@
 # yarn lockfile v1
 
 
-"js-tokens@^3.0.0 || ^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
-  integrity sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==
+"react@file:./vendored@d77e5f65cb43947337b11c90b37a7a8b3f45575c/react":
+  version "0.0.0-experimental-d77e5f65-20250204"
 
-loose-envify@^1.1.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/loose-envify/-/loose-envify-1.4.0.tgz#71ee51fa7be4caec1a63839f7e682d8132d30caf"
-  integrity sha512-lyuxPGr/Wfhrlem2CL/UcnUc1zcqKAImBDzukY7Y5F/yQiNdko6+fRLevlw1HgMySw7f611UIY408EtxRSoK3Q==
-  dependencies:
-    js-tokens "^3.0.0 || ^4.0.0"
-
-"react@https://react-builds.vercel.app/api/commits/62a5371f551906a49730c7aa64172114972efc3c/packages/react":
-  version "0.0.0-experimental-62a5371f5-20220910"
-  resolved "https://react-builds.vercel.app/api/commits/62a5371f551906a49730c7aa64172114972efc3c/packages/react#2c90002fc2c2d6d6965b1296bc3c994752d8b95f"
-  dependencies:
-    loose-envify "^1.1.0"
-
-"use-sync-external-store@https://react-builds.vercel.app/api/commits/62a5371f551906a49730c7aa64172114972efc3c/packages/use-sync-external-store":
-  version "0.0.0-experimental-62a5371f5-20220910"
-  resolved "https://react-builds.vercel.app/api/commits/62a5371f551906a49730c7aa64172114972efc3c/packages/use-sync-external-store#6542406f253c79e904f975ecaaf499240b217aac"
+"use-sync-external-store@file:./vendored@d77e5f65cb43947337b11c90b37a7a8b3f45575c/use-sync-external-store":
+  version "0.0.0-experimental-d77e5f65-20250204"
